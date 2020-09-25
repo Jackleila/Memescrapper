@@ -1,2 +1,2 @@
 # Memescraper
-Just a meme scraper in PHP
+Just a meme scrapper in PHP
